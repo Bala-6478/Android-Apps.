@@ -4,7 +4,7 @@ A simple, fast, and modern **QR Code Generator Android App** that allows users t
 
 The app provides an easy-to-use interface with QR customization and download/share options.
 
----
+---  
 
 ## 📲 App Overview
 
