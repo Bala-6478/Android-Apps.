@@ -80,11 +80,6 @@ The purpose of this application is to provide an easy-to-use tool for students, 
 
 **Gowtham M**
 
-🌐 Portfolio:  
-https://gowtham2025.neocities.org/
-
-💻 GitHub:  
-https://github.com/Gowtham9443
 
 ---
 
