@@ -78,7 +78,7 @@ The purpose of this application is to provide an easy-to-use tool for students, 
 
 ## 👨‍💻 Developer
 
-**Gowtham M**
+**BALAVIGNESH A**
 
 
 ---
