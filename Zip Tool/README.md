@@ -3,7 +3,7 @@
 A simple ZIP Utility Android application for managing ZIP files on mobile devices.
 
 ## 🌐 Live Demo
-https://gowtham2025.neocities.org/WEB%20APP/Zip%20tool/zip_utility_v2
+
 
 ## ✨ Features
 - Create ZIP archives
@@ -37,9 +37,6 @@ Download the APK from the **GitHub Releases** section after the APK file has bee
 
 ## 👨‍💻 Developer
 **Gowtham M**
-
-- **Portfolio:** https://gowtham2025.neocities.org/
-- **GitHub:** https://github.com/Gowtham9443
 
 ## 📄 License
 MIT License (if selected for this project).
