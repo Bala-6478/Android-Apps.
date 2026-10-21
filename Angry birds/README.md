@@ -65,7 +65,7 @@ https://gowtham2025.neocities.org/web%20games/angry%20birds/angry_birds_v1
 | Platform | Android |
 | Developer | Gowtham M |
 | Project Type | Mobile Game |
-| Live Demo | [Click Here](https://gowtham2025.neocities.org/web%20games/angry%20birds/angry_birds_v1) |
+| Live Demo | [Click Here]() |
 
 ## 🔮 Future Enhancements
 
