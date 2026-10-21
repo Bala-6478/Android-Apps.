@@ -81,8 +81,6 @@ This is an independent project inspired by Angry Birds-style gameplay. It is not
 
 ## 👨‍💻 Developer
 
-**Gowtham M**
-
-🌐 Portfolio: https://gowtham2025.neocities.org/
+**BALAVIGNESH A**
 
 ⭐ If you like this project, please consider giving the repository a star!
