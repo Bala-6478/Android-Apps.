@@ -1,6 +1,7 @@
 # Android-Apps.  
   
-# Android
+<h1 align="center">Android</h1>
 
-![Android Logo](images/android.jpg)
-  
+<p align="center">
+  <img src="images/android.jpg" alt="Android Logo" width="200">
+</p>
